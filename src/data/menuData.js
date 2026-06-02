@@ -61,7 +61,7 @@ export const menuItems = [
     name: "Mutton Biryani",
     category: "Main Course",
     price: 1500,
-    image: "https://images.unsplash.com/photo-1563379091339-03246963d8f6?w=400&h=300&fit=crop",
+   image: "/images/mutton-biryani.jpg",
     description: "Aromatic basmati rice cooked with tender mutton and whole spices.",
     rating: 4.8,
     time: "45 mins",
